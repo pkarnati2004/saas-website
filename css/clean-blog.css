@@ -41,8 +41,8 @@ blockquote {
   margin-top: 60px; }
 
 .caption {
-  font-size: 14px;
-  font-style: italic;
+  font-size: 22px; !important
+  font-style: normal;
   display: block;
   margin: 0;
   padding: 10px;

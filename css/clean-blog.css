@@ -311,12 +311,12 @@ footer {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
 
 .btn-primary {
-  background-color: #0085A1;
-  border-color: #0085A1; }
+  background-color:#990033;
+  border-color: #990033; }
   .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
     color: #fff;
-    background-color: #00657b !important;
-    border-color: #00657b !important; }
+    background-color: #d40047 !important;
+    border-color: #d40047 !important; }
 
 .btn-lg {
   font-size: 16px;
